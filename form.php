@@ -42,6 +42,9 @@
         <div class="button">
             <button type="submit">Envoyer votre message</button>
         </div>
+        <?php
+        var_dump($_POST);
+        ?>
     </form>
 </body>
 
